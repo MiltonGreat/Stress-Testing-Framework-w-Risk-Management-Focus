@@ -1,10 +1,6 @@
 # Stress-Testing-Framework-w-Risk-Management-Focus
 ## Simulating Macroeconomic Shocks to Assess Portfolio Resilience
 
-![Stress Testing](https://img.shields.io/badge/Stress_Testing-Regulatory_Compliance-blue)
-![Capital Adequacy](https://img.shields.io/badge/Capital-Adequacy-green)
-![Risk Management](https://img.shields.io/badge/Risk-Management-orange)
-
 **Translating "what if" scenarios into quantifiable outcomes for capital adequacy and risk governance.**
 
 ## 🎯 Executive Summary
